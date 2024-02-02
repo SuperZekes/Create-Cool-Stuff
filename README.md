@@ -14,4 +14,4 @@ This is a modpack for Minecraft that enhances gameplay using Create and its addo
 - Generate and store power with flywheels and axles  
 - Craft new brass gear and building blocks
 - Big Cannons - Construct and automate cannons and artillery 
-- New tools and mechines added by Create: Dreams & Desires
+- New tools and machines added by Create: Dreams & Desires
